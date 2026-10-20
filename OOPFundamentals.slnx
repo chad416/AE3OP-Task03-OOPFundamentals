@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Challenges/Challenges.csproj" />
+  <Project Path="TeacherSystem/TeacherSystem.csproj" />
+</Solution>
